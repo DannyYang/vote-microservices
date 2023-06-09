@@ -3,6 +3,7 @@ server:
   servlet:
     context-path: /VoteService
 
+
 spring:
   redis:
     redisson:
