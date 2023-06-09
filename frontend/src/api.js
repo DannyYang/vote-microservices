@@ -5,6 +5,7 @@ const isError = false;
 const service = '/VoteService/vote';
 let tempRecordData = {};
 
+
 function getApi(endpoint) {
     return service + (endpoint || '');
 }
